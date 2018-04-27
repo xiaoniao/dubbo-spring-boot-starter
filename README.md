@@ -1,3 +1,7 @@
+
+后续dubbo-spring-boot-starter将停止更新，部分功能会合并到https://github.com/dubbo/dubbo-spring-boot-project并继续演进，谢谢
+
+
 dubbo-spring-boot-starter [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.alibaba.spring.boot/dubbo-spring-boot-starter/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.alibaba.spring.boot/dubbo-spring-boot-starter)
 ===================================
 
